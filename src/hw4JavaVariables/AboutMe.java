@@ -20,10 +20,9 @@ public class AboutMe {
 	}
 
 	public void Aboutme() {
-		System.out.println("My Name: " + name + "\nMy Age: " + age + "\nMy Mortgage: "
-				+ myHouseMortgage + "\nMy Salary: " + myYearlySalary + "\nMy Bank Balance: "
-				+ myBankBalance + "\nMy Weight: " + myWeight + "\nMy Grade: " + myGrade
-				+ "\nMy Sex: " + Sex + "\nMy Citizen Status: " + usCitizen);
+		System.out.println("My Name: " + name + "\nMy Age: " + age + "\nMy Mortgage: " + myHouseMortgage
+				+ "\nMy Salary: " + myYearlySalary + "\nMy Bank Balance: " + myBankBalance + "\nMy Weight: " + myWeight
+				+ "\nMy Grade: " + myGrade + "\nMy Sex: " + Sex + "\nMy Citizen Status: " + usCitizen);
 
 	}
 }

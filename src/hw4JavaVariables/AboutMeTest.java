@@ -13,7 +13,7 @@ public class AboutMeTest {
 		about1.Sex = 'M';
 		about1.usCitizen = true;
 		about1.Aboutme(); // Method is Initialized
-		
+
 		System.out.println("\n---------------------------------\n");
 		AboutMe about2 = new AboutMe();
 		about2.name = "Alex montero";
@@ -26,7 +26,6 @@ public class AboutMeTest {
 		about2.Sex = 'F';
 		about2.usCitizen = false;
 		about2.Aboutme();
-
 	}
 
 }
